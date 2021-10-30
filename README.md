@@ -7,6 +7,6 @@ flowchart berfungsi untuk menggambarkan secara jelas suatu alur pekerjaan dan ke
 ### Kedua, menggunakan import math
 Untuk kode math.pi menggunakan 3.14, seperti gambar dibawah ini. 
 ![Gambar](capture/ss2.png) 
-Untuk kode \t merupakan karakter espace yang berfungsi untuk membuat tab.
+Untuk kode \t merupakan karakter espace yang berfungsi untuk membuat tab. Dengan penggunaan fungsi format(luas,’.2f’) akan menghasilkan 2 angka pecahan saja.  
 ### Berikut adalah contoh hasil output progam menghitung luas dan keliling lingkaran
 ![Gambar](capture/ss3.png)
